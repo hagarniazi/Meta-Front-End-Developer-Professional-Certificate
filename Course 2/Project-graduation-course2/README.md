@@ -82,13 +82,14 @@ The program will display the calculated dish prices, discounts, and validation m
 
 **Course 2 — Programming with JavaScript**
 
+Status: ✅ Completed
+
 ## 📜 Certificate
 
 Certificate of completion for **Course 2 — Programming with JavaScript**.
 
 ![View Certificate](Programming-with-JavaScript-certification.jpg)
 
-Status: ✅ Completed
 
 ## 👩‍💻 Author
 
